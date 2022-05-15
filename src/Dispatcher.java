@@ -2,6 +2,9 @@ import java.io.IOException;
 import java.net.ServerSocket;
 import java.util.concurrent.Executor;
 
+/**
+ * Диспетчер, который распределяет входящие запросы клиента по обработчикам.
+ */
 public class Dispatcher {
     private final int port;
     private final Executor executor;

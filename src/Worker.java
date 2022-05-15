@@ -1,6 +1,9 @@
 import java.io.IOException;
 import java.net.Socket;
 
+/**
+ * Обработчик запроса клиента.
+ */
 class Worker {
     private final Socket socket;
     private final DbAdapter dbAdapter;
