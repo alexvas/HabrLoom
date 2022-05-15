@@ -1,0 +1,78 @@
+@startuml
+title Сценарий блокирующей обработки
+skinparam backgroundcolor AntiqueWhite/White
+
+  control "Процессор" as proc #orange
+  participant "Операционная\nсистема" as os #orchid
+  participant "Виртуальная\nмашина" as vm #lightblue
+  box Приложение #ivory
+    participant "Диспетчер" as dispatcher #lightgreen
+    participant "Рабочий" as worker #lightgreen
+  end box
+
+== Обрабатываем запрос Клиента ==
+autonumber 1.1
+group Клиент соединяется с сервером
+  -[#red]> os : TCP-соединение
+  os -[#red]> vm : уведомить\nо попытке\nсоединения
+  vm -[#red]>> os: перевести\n<i>диспетчерский</i>\nтред в состояние\n«ожидание\nвыполнения»
+  ...ждём, пока освободится ядро проца...
+  os -[#red]> proc: выполнить\n<i>диспетчерский</i>\nтред\nв ядре проца
+  activate dispatcher #cyan
+  rnote over dispatcher: Активный диспетчерский поток выполнения
+end
+group Активируется рабочий поток выполнения
+  dispatcher -[#blue]>> vm : взять\nсвободный тред\nиз пула
+  vm -[#blue]>> os: перевести тред\nв состояние\n«ожидание\nвыполнения»
+  ...ждём, пока освободится ядро проца...
+  os -[#blue]> proc: выполнить тред\nв ядре проца
+  activate worker #lightgreen
+  rnote over worker: Активный рабочий поток выполнения
+  deactivate dispatcher
+end
+group Обрабатываются данные клиента
+  worker ->> worker : вычитать\nпоступившие\nдвоичные данные
+  note left: в общем случае\nэта блокирующая операция\nтоже бьётся на несколько шагов
+  worker ->> worker : разобрать запрос\nклиента
+  note left: двоичные данные →\nJSON →\nобъектное представление
+  worker ->> worker : сформировать\nJDBC-запрос
+end
+group Запрос уходит в Базу данных
+  worker -[#green]>] : JDBC-запрос
+  note left: в общем случае\nэта блокирующая операция\nтоже бьётся на несколько шагов
+  hnote over worker: Считаем, что уже имеется пул соединений с БД.
+end
+== Ждём ответа Базы данных ==
+autonumber 2.1
+group Блокируется рабочий поток выполнения
+  vm -[#orange]>> os: перевести тред\nв состояние\n«заблокирован»
+  os -[#orange]> proc: выгрузить тред\nиз ядра проца
+  deactivate worker
+end
+...и какое-то время спустя:...
+== Формируем и отправляем ответ Клиенту ==
+autonumber 3.1
+group Приходит ответ из Базы данных
+  os <[#green]-- : JDBC-ответ
+  os -[#brown]> vm : уведомить\nо получении\nответа
+end
+group Активируется рабочий поток выполнения
+  vm -[#orange]>> os: перевести тред\nв состояние\n«ожидание\nвыполнения»
+  ...ждём, пока освободится ядро проца...
+  os -[#orange]> proc: выполнить тред\nв ядре проца
+  activate worker #lightgreen
+  rnote over worker: Активный рабочий поток выполнения
+end
+group Обрабатывается ответ Базы данных
+  worker ->> worker : вычитать\nпоступившие\nиз БД\nдвоичные данные
+  note left: в общем случае\nэта блокирующая операция\nтоже бьётся на несколько шагов
+  worker ->> worker : разобрать\nответ БД
+  note left: двоичные данные →\nпротокол JDBC →\nобъектное представление
+  worker ->> worker: сериализовать\nответ\nклиенту
+  note left: объектное представление →\nJSON →\nдвоичные данные
+end
+group Ответ уходит клиенту [в общем случае\nэта блокирующая операция\nтоже бьётся на несколько шагов]
+  [<-[#red]- worker: отослать данные
+  deactivate worker
+end
+@enduml

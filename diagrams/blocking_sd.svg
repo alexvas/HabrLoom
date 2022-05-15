@@ -1,0 +1,2789 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   contentStyleType="text/css"
+   height="2407px"
+   preserveAspectRatio="none"
+   style="width:796px;height:2407px;background:#FAEBD7;"
+   version="1.1"
+   viewBox="0 0 796 2407"
+   width="796px"
+   zoomAndPan="magnify"
+   id="svg2224"
+   sodipodi:docname="blocking_sd.svg"
+   inkscape:version="1.1.2 (08b2f3d93c, 2022-04-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2226"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.77648525"
+     inkscape:cx="398.59096"
+     inkscape:cy="70.188068"
+     inkscape:window-width="3638"
+     inkscape:window-height="2119"
+     inkscape:window-x="202"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2224" />
+  <defs
+     id="defs1554">
+    <linearGradient
+       id="gxbxar7d4gfop0"
+       x1="0%"
+       x2="100%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#FAEBD7"
+         id="stop1549" />
+      <stop
+         offset="100%"
+         stop-color="#FFFFFF"
+         id="stop1551" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gxbxar7d4gfop0"
+       id="linearGradient2308"
+       x1="0"
+       y1="0"
+       x2="1384.1864"
+       y2="1384.1864"
+       gradientTransform="scale(0.57506706,1.7389276)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gxbxar7d4gfop0"
+       id="linearGradient2310"
+       x1="82.426514"
+       y1="30.936647"
+       x2="172.28758"
+       y2="120.79771"
+       gradientTransform="scale(3.0936647,0.32324123)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="g2222"
+     transform="matrix(2,0,0,2,-397.75,-1203.5)">
+    <rect
+       fill="url(#gxbxar7d4gfop0)"
+       height="2407"
+       style="fill:url(#linearGradient2308);stroke:none;stroke-width:1"
+       width="796"
+       x="0"
+       y="0"
+       id="rect1556" />
+    <rect
+       fill="url(#gxbxar7d4gfop0)"
+       height="29.046801"
+       style="fill:url(#linearGradient2310);stroke-width:1"
+       width="278"
+       x="255"
+       y="10"
+       id="rect1558" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="268"
+       x="260"
+       y="29.9494"
+       id="text1560">Сценарий блокирующей обработки</text>
+    <rect
+       fill="#fffff0"
+       height="2355.5232"
+       style="stroke:#181818;stroke-width:0.5"
+       width="181"
+       x="466.5"
+       y="46.046799"
+       id="rect1562" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="88"
+       x="511.5"
+       y="59.943802"
+       id="text1564">Приложение</text>
+    <rect
+       fill="#00ffff"
+       height="229.3541"
+       style="stroke:#00ffff;stroke-width:1"
+       width="10"
+       x="510.5"
+       y="505.35071"
+       id="rect1566" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="510.5"
+       x2="510.5"
+       y1="505.35071"
+       y2="734.70477"
+       id="line1568" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="520.5"
+       x2="520.5"
+       y1="505.35071"
+       y2="734.70477"
+       id="line1570" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="510.5"
+       x2="520.5"
+       y1="505.35071"
+       y2="505.35071"
+       id="line1572" />
+    <rect
+       fill="#00ffff"
+       height="71.412003"
+       style="stroke:#00ffff;stroke-width:1"
+       width="10"
+       x="510.5"
+       y="777.66559"
+       id="rect1574" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="510.5"
+       x2="510.5"
+       y1="777.66559"
+       y2="849.07758"
+       id="line1576" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="520.5"
+       x2="520.5"
+       y1="777.66559"
+       y2="849.07758"
+       id="line1578" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="510.5"
+       x2="520.5"
+       y1="849.07758"
+       y2="849.07758"
+       id="line1580" />
+    <rect
+       fill="#90ee90"
+       height="653.53241"
+       style="stroke:#181818;stroke-width:1"
+       width="10"
+       x="602"
+       y="819.07758"
+       id="rect1582" />
+    <rect
+       fill="#90ee90"
+       height="415.7666"
+       style="stroke:#181818;stroke-width:1"
+       width="10"
+       x="602"
+       y="1904.7098"
+       id="rect1584" />
+    <rect
+       height="384.55099"
+       style="fill:none;stroke:#000000;stroke-width:1.5"
+       width="667"
+       x="3"
+       y="164.50571"
+       id="rect1586" />
+    <rect
+       height="329.72699"
+       style="fill:none;stroke:#000000;stroke-width:1.5"
+       width="732"
+       x="10"
+       y="563.0567"
+       id="rect1588" />
+    <rect
+       height="235.3541"
+       style="fill:none;stroke:#000000;stroke-width:1.5"
+       width="399"
+       x="359"
+       y="906.78363"
+       id="rect1590" />
+    <rect
+       height="128.53011"
+       style="fill:none;stroke:#000000;stroke-width:1.5"
+       width="420"
+       x="359"
+       y="1156.1378"
+       id="rect1592" />
+    <rect
+       height="136.2361"
+       style="fill:none;stroke:#000000;stroke-width:1.5"
+       width="413.5"
+       x="10"
+       y="1344.3739"
+       id="rect1594" />
+    <rect
+       height="118.5301"
+       style="fill:none;stroke:#000000;stroke-width:1.5"
+       width="283.5"
+       x="140"
+       y="1583.2769"
+       id="rect1596" />
+    <rect
+       height="232.6089"
+       style="fill:none;stroke:#000000;stroke-width:1.5"
+       width="732"
+       x="10"
+       y="1715.8069"
+       id="rect1598" />
+    <rect
+       height="270.7662"
+       style="fill:none;stroke:#000000;stroke-width:1.5"
+       width="399"
+       x="359"
+       y="1962.4158"
+       id="rect1600" />
+    <rect
+       height="81.294403"
+       style="fill:none;stroke:#000000;stroke-width:1.5"
+       width="650.5"
+       x="3"
+       y="2247.1819"
+       id="rect1602" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="60"
+       x2="60"
+       y1="101.7996"
+       y2="385.5658"
+       id="line1604" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="60"
+       x2="60"
+       y1="385.5658"
+       y2="428.52661"
+       id="line1606" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="60"
+       x2="60"
+       y1="428.52661"
+       y2="734.70477"
+       id="line1608" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="60"
+       x2="60"
+       y1="734.70477"
+       y2="777.66559"
+       id="line1610" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="60"
+       x2="60"
+       y1="777.66559"
+       y2="1487.61"
+       id="line1612" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="60"
+       x2="60"
+       y1="1487.61"
+       y2="1530.5708"
+       id="line1614" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="60"
+       x2="60"
+       y1="1530.5708"
+       y2="1820.337"
+       id="line1616" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="60"
+       x2="60"
+       y1="1820.337"
+       y2="1863.2977"
+       id="line1618" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="60"
+       x2="60"
+       y1="1863.2977"
+       y2="2345.4763"
+       id="line1620" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="209"
+       x2="209"
+       y1="101.7996"
+       y2="385.5658"
+       id="line1622" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="209"
+       x2="209"
+       y1="385.5658"
+       y2="428.52661"
+       id="line1624" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="209"
+       x2="209"
+       y1="428.52661"
+       y2="734.70477"
+       id="line1626" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="209"
+       x2="209"
+       y1="734.70477"
+       y2="777.66559"
+       id="line1628" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="209"
+       x2="209"
+       y1="777.66559"
+       y2="1487.61"
+       id="line1630" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="209"
+       x2="209"
+       y1="1487.61"
+       y2="1530.5708"
+       id="line1632" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="209"
+       x2="209"
+       y1="1530.5708"
+       y2="1820.337"
+       id="line1634" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="209"
+       x2="209"
+       y1="1820.337"
+       y2="1863.2977"
+       id="line1636" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="209"
+       x2="209"
+       y1="1863.2977"
+       y2="2345.4763"
+       id="line1638" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="361.5"
+       x2="361.5"
+       y1="101.7996"
+       y2="385.5658"
+       id="line1640" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="361.5"
+       x2="361.5"
+       y1="385.5658"
+       y2="428.52661"
+       id="line1642" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="361.5"
+       x2="361.5"
+       y1="428.52661"
+       y2="734.70477"
+       id="line1644" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="361.5"
+       x2="361.5"
+       y1="734.70477"
+       y2="777.66559"
+       id="line1646" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="361.5"
+       x2="361.5"
+       y1="777.66559"
+       y2="1487.61"
+       id="line1648" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="361.5"
+       x2="361.5"
+       y1="1487.61"
+       y2="1530.5708"
+       id="line1650" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="361.5"
+       x2="361.5"
+       y1="1530.5708"
+       y2="1820.337"
+       id="line1652" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="361.5"
+       x2="361.5"
+       y1="1820.337"
+       y2="1863.2977"
+       id="line1654" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="361.5"
+       x2="361.5"
+       y1="1863.2977"
+       y2="2345.4763"
+       id="line1656" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="515.5"
+       x2="515.5"
+       y1="101.7996"
+       y2="385.5658"
+       id="line1658" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="515.5"
+       x2="515.5"
+       y1="385.5658"
+       y2="428.52661"
+       id="line1660" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="515.5"
+       x2="515.5"
+       y1="428.52661"
+       y2="734.70477"
+       id="line1662" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="515.5"
+       x2="515.5"
+       y1="734.70477"
+       y2="777.66559"
+       id="line1664" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="515.5"
+       x2="515.5"
+       y1="777.66559"
+       y2="1487.61"
+       id="line1666" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="515.5"
+       x2="515.5"
+       y1="1487.61"
+       y2="1530.5708"
+       id="line1668" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="515.5"
+       x2="515.5"
+       y1="1530.5708"
+       y2="1820.337"
+       id="line1670" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="515.5"
+       x2="515.5"
+       y1="1820.337"
+       y2="1863.2977"
+       id="line1672" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="515.5"
+       x2="515.5"
+       y1="1863.2977"
+       y2="2345.4763"
+       id="line1674" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="606.5"
+       x2="606.5"
+       y1="101.7996"
+       y2="385.5658"
+       id="line1676" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="606.5"
+       x2="606.5"
+       y1="385.5658"
+       y2="428.52661"
+       id="line1678" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="606.5"
+       x2="606.5"
+       y1="428.52661"
+       y2="734.70477"
+       id="line1680" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="606.5"
+       x2="606.5"
+       y1="734.70477"
+       y2="777.66559"
+       id="line1682" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="606.5"
+       x2="606.5"
+       y1="777.66559"
+       y2="1487.61"
+       id="line1684" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="606.5"
+       x2="606.5"
+       y1="1487.61"
+       y2="1530.5708"
+       id="line1686" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="606.5"
+       x2="606.5"
+       y1="1530.5708"
+       y2="1820.337"
+       id="line1688" />
+    <line
+       style="fill:none;stroke:#a80036;stroke-width:1;stroke-dasharray:1, 4"
+       x1="606.5"
+       x2="606.5"
+       y1="1820.337"
+       y2="1863.2977"
+       id="line1690" />
+    <line
+       style="fill:none;stroke:#181818;stroke-width:0.5;stroke-dasharray:5, 5"
+       x1="606.5"
+       x2="606.5"
+       y1="1863.2977"
+       y2="2345.4763"
+       id="line1692" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="75"
+       x="20"
+       y="97.702202"
+       id="text1694">Процессор</text>
+    <circle
+       cx="60.5"
+       cy="66.7528"
+       fill="#ffa500"
+       style="stroke:#181818;stroke-width:0.5"
+       id="ellipse1696"
+       r="12" />
+    <polygon
+       fill="#181818"
+       points="62.5,49.7528 60.5,54.7528 62.5,59.7528 56.5,54.7528 "
+       style="stroke:#181818;stroke-width:1"
+       id="polygon1698" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="75"
+       x="20"
+       y="2359.4258"
+       id="text1700">Процессор</text>
+    <circle
+       cx="60.5"
+       cy="2379.5232"
+       fill="#ffa500"
+       style="stroke:#181818;stroke-width:0.5"
+       id="ellipse1702"
+       r="12" />
+    <polygon
+       fill="#181818"
+       points="62.5,2362.5232 60.5,2367.5232 62.5,2372.5232 56.5,2367.5232 "
+       style="stroke:#181818;stroke-width:1"
+       id="polygon1704" />
+    <rect
+       fill="#da70d6"
+       height="52.093601"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:#181818;stroke-width:0.5"
+       width="119"
+       x="150"
+       y="48.706001"
+       id="rect1706" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="105"
+       x="157"
+       y="70.655403"
+       id="text1708">Операционная</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="56"
+       x="181.5"
+       y="89.702202"
+       id="text1710">система</text>
+    <rect
+       fill="#da70d6"
+       height="52.093601"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:#181818;stroke-width:0.5"
+       width="119"
+       x="150"
+       y="2344.4763"
+       id="rect1712" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="105"
+       x="157"
+       y="2366.4258"
+       id="text1714">Операционная</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="56"
+       x="181.5"
+       y="2385.4724"
+       id="text1716">система</text>
+    <rect
+       fill="#add8e6"
+       height="52.093601"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:#181818;stroke-width:0.5"
+       width="104"
+       x="309.5"
+       y="48.706001"
+       id="rect1718" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="90"
+       x="316.5"
+       y="70.655403"
+       id="text1720">Виртуальная</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="57"
+       x="333"
+       y="89.702202"
+       id="text1722">машина</text>
+    <rect
+       fill="#add8e6"
+       height="52.093601"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:#181818;stroke-width:0.5"
+       width="104"
+       x="309.5"
+       y="2344.4763"
+       id="rect1724" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="90"
+       x="316.5"
+       y="2366.4258"
+       id="text1726">Виртуальная</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="57"
+       x="333"
+       y="2385.4724"
+       id="text1728">машина</text>
+    <rect
+       fill="#90ee90"
+       height="33.046799"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:#181818;stroke-width:0.5"
+       width="90"
+       x="470.5"
+       y="67.7528"
+       id="rect1730" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="76"
+       x="477.5"
+       y="89.702202"
+       id="text1732">Диспетчер</text>
+    <rect
+       fill="#90ee90"
+       height="33.046799"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:#181818;stroke-width:0.5"
+       width="90"
+       x="470.5"
+       y="2344.4763"
+       id="rect1734" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="76"
+       x="477.5"
+       y="2366.4258"
+       id="text1736">Диспетчер</text>
+    <rect
+       fill="#90ee90"
+       height="33.046799"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:#181818;stroke-width:0.5"
+       width="73"
+       x="570.5"
+       y="67.7528"
+       id="rect1738" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="59"
+       x="577.5"
+       y="89.702202"
+       id="text1740">Рабочий</text>
+    <rect
+       fill="#90ee90"
+       height="33.046799"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:#181818;stroke-width:0.5"
+       width="73"
+       x="570.5"
+       y="2344.4763"
+       id="rect1742" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="59"
+       x="577.5"
+       y="2366.4258"
+       id="text1744">Рабочий</text>
+    <rect
+       fill="#00ffff"
+       height="229.3541"
+       style="stroke:#00ffff;stroke-width:1"
+       width="10"
+       x="510.5"
+       y="505.35071"
+       id="rect1746" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="510.5"
+       x2="510.5"
+       y1="505.35071"
+       y2="734.70477"
+       id="line1748" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="520.5"
+       x2="520.5"
+       y1="505.35071"
+       y2="734.70477"
+       id="line1750" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="510.5"
+       x2="520.5"
+       y1="505.35071"
+       y2="505.35071"
+       id="line1752" />
+    <rect
+       fill="#00ffff"
+       height="71.412003"
+       style="stroke:#00ffff;stroke-width:1"
+       width="10"
+       x="510.5"
+       y="777.66559"
+       id="rect1754" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="510.5"
+       x2="510.5"
+       y1="777.66559"
+       y2="849.07758"
+       id="line1756" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="520.5"
+       x2="520.5"
+       y1="777.66559"
+       y2="849.07758"
+       id="line1758" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="510.5"
+       x2="520.5"
+       y1="849.07758"
+       y2="849.07758"
+       id="line1760" />
+    <rect
+       fill="#90ee90"
+       height="653.53241"
+       style="stroke:#181818;stroke-width:1"
+       width="10"
+       x="602"
+       y="819.07758"
+       id="rect1762" />
+    <rect
+       fill="#90ee90"
+       height="415.7666"
+       style="stroke:#181818;stroke-width:1"
+       width="10"
+       x="602"
+       y="1904.7098"
+       id="rect1764" />
+    <rect
+       fill="#eeeeee"
+       height="3"
+       style="stroke:#eeeeee;stroke-width:1"
+       width="789"
+       x="0"
+       y="133.6526"
+       id="rect1766" />
+    <line
+       style="stroke:#000000;stroke-width:1"
+       x1="0"
+       x2="789"
+       y1="133.6526"
+       y2="133.6526"
+       id="line1768" />
+    <line
+       style="stroke:#000000;stroke-width:1"
+       x1="0"
+       x2="789"
+       y1="136.6526"
+       y2="136.6526"
+       id="line1770" />
+    <rect
+       fill="#eeeeee"
+       height="25.705999"
+       style="stroke:#000000;stroke-width:2"
+       width="230"
+       x="279.5"
+       y="121.7996"
+       id="rect1772" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="213"
+       x="285.5"
+       y="139.6967"
+       id="text1774">Обрабатываем запрос Клиента</text>
+    <path
+       d="m 3,164.5057 h 265 v 9.706 l -10,10 H 3 v -19.706"
+       fill="#eeeeee"
+       style="stroke:#000000;stroke-width:1.5"
+       id="path1776" />
+    <rect
+       fill="none"
+       height="384.55099"
+       style="stroke:#000000;stroke-width:1.5"
+       width="667"
+       x="3"
+       y="164.50571"
+       id="rect1778" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="220"
+       x="18"
+       y="179.40269"
+       id="text1780">Клиент соединяется с сервером</text>
+    <polygon
+       fill="#ff0000"
+       points="207.5,207.9177 197.5,211.9177 201.5,207.9177 197.5,203.9177 "
+       style="stroke:#ff0000;stroke-width:1"
+       id="polygon1782" />
+    <line
+       style="stroke:#ff0000;stroke-width:1"
+       x1="0"
+       x2="203.5"
+       y1="207.91769"
+       y2="207.91769"
+       id="line1784" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="7"
+       y="202.1087"
+       id="text1786">1.1</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="102"
+       x="29"
+       y="202.1087"
+       id="text1788">TCP-соединение</text>
+    <polygon
+       fill="#ff0000"
+       points="359.5,275.0357 349.5,279.0357 353.5,275.0357 349.5,271.0357 "
+       style="stroke:#ff0000;stroke-width:1"
+       id="polygon1790" />
+    <line
+       style="stroke:#ff0000;stroke-width:1"
+       x1="209.5"
+       x2="355.5"
+       y1="275.03571"
+       y2="275.03571"
+       id="line1792" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="216.5"
+       y="251.52071"
+       id="text1794">1.2</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="69"
+       x="238.5"
+       y="233.8147"
+       id="text1796">уведомить</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="65"
+       x="238.5"
+       y="251.52071"
+       id="text1798">о попытке</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="75"
+       x="238.5"
+       y="269.22672"
+       id="text1800">соединения</text>
+    <line
+       style="stroke:#ff0000;stroke-width:1"
+       x1="209.5"
+       x2="219.5"
+       y1="377.5658"
+       y2="373.5658"
+       id="line1802" />
+    <line
+       style="stroke:#ff0000;stroke-width:1"
+       x1="209.5"
+       x2="219.5"
+       y1="377.5658"
+       y2="381.5658"
+       id="line1804" />
+    <line
+       style="stroke:#ff0000;stroke-width:1"
+       x1="209.5"
+       x2="360.5"
+       y1="377.5658"
+       y2="377.5658"
+       id="line1806" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="226.5"
+       y="336.34479"
+       id="text1808">1.3</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="64"
+       x="248.5"
+       y="300.93271"
+       id="text1810">перевести</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-style="italic"
+       lengthAdjust="spacing"
+       textLength="95"
+       x="248.5"
+       y="318.63879"
+       id="text1812">диспетчерский</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="106"
+       x="248.5"
+       y="336.34479"
+       id="text1814">тред в состояние</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="71"
+       x="248.5"
+       y="354.05081"
+       id="text1816">«ожидание</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="86"
+       x="248.5"
+       y="371.75681"
+       id="text1818">выполнения»</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11px"
+       lengthAdjust="spacing"
+       textLength="197"
+       x="235.25"
+       y="411.3082"
+       id="text1820">ждём, пока освободится ядро проца</text>
+    <polygon
+       fill="#ff0000"
+       points="61.5,505.3507 71.5,509.3507 67.5,505.3507 71.5,501.3507 "
+       style="stroke:#ff0000;stroke-width:1"
+       id="polygon1822" />
+    <line
+       style="stroke:#ff0000;stroke-width:1"
+       x1="65.5"
+       x2="208.5"
+       y1="505.35071"
+       y2="505.35071"
+       id="line1824" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="77.5"
+       y="472.9826"
+       id="text1826">1.4</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="71"
+       x="99.5"
+       y="446.42361"
+       id="text1828">выполнить</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-style="italic"
+       lengthAdjust="spacing"
+       textLength="95"
+       x="99.5"
+       y="464.12961"
+       id="text1830">диспетчерский</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="29"
+       x="99.5"
+       y="481.8356"
+       id="text1832">тред</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="82"
+       x="99.5"
+       y="499.54169"
+       id="text1834">в ядре проца</text>
+    <rect
+       fill="#feffdd"
+       height="25"
+       style="stroke:#181818;stroke-width:0.5"
+       width="290"
+       x="370"
+       y="518.35071"
+       id="rect1836" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="282"
+       x="374"
+       y="536.24768"
+       id="text1838">Активный диспетчерский поток выполнения</text>
+    <path
+       d="m 10,563.0567 h 333 v 9.706 l -10,10 H 10 v -19.706"
+       fill="#eeeeee"
+       style="stroke:#000000;stroke-width:1.5"
+       id="path1840" />
+    <rect
+       fill="none"
+       height="329.72699"
+       style="stroke:#000000;stroke-width:1.5"
+       width="732"
+       x="10"
+       y="563.0567"
+       id="rect1842" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="288"
+       x="25"
+       y="577.95367"
+       id="text1844">Активируется рабочий поток выполнения</text>
+    <line
+       style="stroke:#0000ff;stroke-width:1"
+       x1="361.5"
+       x2="371.5"
+       y1="641.88068"
+       y2="637.88068"
+       id="line1846" />
+    <line
+       style="stroke:#0000ff;stroke-width:1"
+       x1="361.5"
+       x2="371.5"
+       y1="641.88068"
+       y2="645.88068"
+       id="line1848" />
+    <line
+       style="stroke:#0000ff;stroke-width:1"
+       x1="361.5"
+       x2="509.5"
+       y1="641.88068"
+       y2="641.88068"
+       id="line1850" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="378.5"
+       y="618.36572"
+       id="text1852">1.5</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="34"
+       x="400.5"
+       y="600.65973"
+       id="text1854">взять</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="103"
+       x="400.5"
+       y="618.36572"
+       id="text1856">свободный тред</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="47"
+       x="400.5"
+       y="636.07172"
+       id="text1858">из пула</text>
+    <line
+       style="stroke:#0000ff;stroke-width:1"
+       x1="209.5"
+       x2="219.5"
+       y1="726.70477"
+       y2="722.70477"
+       id="line1860" />
+    <line
+       style="stroke:#0000ff;stroke-width:1"
+       x1="209.5"
+       x2="219.5"
+       y1="726.70477"
+       y2="730.70477"
+       id="line1862" />
+    <line
+       style="stroke:#0000ff;stroke-width:1"
+       x1="209.5"
+       x2="360.5"
+       y1="726.70477"
+       y2="726.70477"
+       id="line1864" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="226.5"
+       y="694.33679"
+       id="text1866">1.6</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="96"
+       x="248.5"
+       y="667.77777"
+       id="text1868">перевести тред</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="74"
+       x="248.5"
+       y="685.48383"
+       id="text1870">в состояние</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="71"
+       x="248.5"
+       y="703.18982"
+       id="text1872">«ожидание</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="86"
+       x="248.5"
+       y="720.89581"
+       id="text1874">выполнения»</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11px"
+       lengthAdjust="spacing"
+       textLength="197"
+       x="235.25"
+       y="760.4472"
+       id="text1876">ждём, пока освободится ядро проца</text>
+    <polygon
+       fill="#0000ff"
+       points="61.5,819.0776 71.5,823.0776 67.5,819.0776 71.5,815.0776 "
+       style="stroke:#0000ff;stroke-width:1"
+       id="polygon1878" />
+    <line
+       style="stroke:#0000ff;stroke-width:1"
+       x1="65.5"
+       x2="208.5"
+       y1="819.07758"
+       y2="819.07758"
+       id="line1880" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="77.5"
+       y="804.41559"
+       id="text1882">1.7</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="103"
+       x="99.5"
+       y="795.56262"
+       id="text1884">выполнить тред</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="82"
+       x="99.5"
+       y="813.26862"
+       id="text1886">в ядре проца</text>
+    <rect
+       fill="#feffdd"
+       height="25"
+       style="stroke:#181818;stroke-width:0.5"
+       width="250"
+       x="482"
+       y="862.07758"
+       id="rect1888" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="242"
+       x="486"
+       y="879.97461"
+       id="text1890">Активный рабочий поток выполнения</text>
+    <path
+       d="m 359,906.7836 h 279 v 9.7061 l -10,10 H 359 v -19.7061"
+       fill="#eeeeee"
+       style="stroke:#000000;stroke-width:1.5"
+       id="path1892" />
+    <rect
+       fill="none"
+       height="235.3541"
+       style="stroke:#000000;stroke-width:1.5"
+       width="399"
+       x="359"
+       y="906.78363"
+       id="rect1894" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="234"
+       x="374"
+       y="921.68073"
+       id="text1896">Обрабатываются данные клиента</text>
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="612"
+       x2="654"
+       y1="985.60773"
+       y2="985.60773"
+       id="line1898" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="654"
+       x2="654"
+       y1="985.60773"
+       y2="998.60773"
+       id="line1900" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="613"
+       x2="654"
+       y1="998.60773"
+       y2="998.60773"
+       id="line1902" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="613"
+       x2="623"
+       y1="998.60773"
+       y2="994.60773"
+       id="line1904" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="613"
+       x2="623"
+       y1="998.60773"
+       y2="1002.6077"
+       id="line1906" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="619"
+       y="962.09271"
+       id="text1908">1.8</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="60"
+       x="641"
+       y="944.38672"
+       id="text1910">вычитать</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="85"
+       x="641"
+       y="962.09271"
+       id="text1912">поступившие</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="115"
+       x="641"
+       y="979.79871"
+       id="text1914">двоичные данные</text>
+    <path
+       d="m 369,934.9897 v 63 h 228 v -53 l -10,-10 H 369"
+       fill="#feffdd"
+       style="stroke:#181818;stroke-width:0.5"
+       id="path1916" />
+    <path
+       d="m 587,934.9897 v 10 h 10 l -10,-10"
+       fill="#feffdd"
+       style="stroke:#181818;stroke-width:0.5"
+       id="path1918" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="101"
+       x="375"
+       y="953.88672"
+       id="text1920">в общем случае</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="177"
+       x="375"
+       y="971.59271"
+       id="text1922">эта блокирующая операция</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="207"
+       x="375"
+       y="989.29871"
+       id="text1924">тоже бьётся на несколько шагов</text>
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="612"
+       x2="654"
+       y1="1053.3728"
+       y2="1053.3728"
+       id="line1926" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="654"
+       x2="654"
+       y1="1053.3728"
+       y2="1066.3728"
+       id="line1928" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="613"
+       x2="654"
+       y1="1066.3728"
+       y2="1066.3728"
+       id="line1930" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="613"
+       x2="623"
+       y1="1066.3728"
+       y2="1062.3728"
+       id="line1932" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="613"
+       x2="623"
+       y1="1066.3728"
+       y2="1070.3728"
+       id="line1934" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="619"
+       y="1038.7107"
+       id="text1936">1.9</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="112"
+       x="641"
+       y="1029.8577"
+       id="text1938">разобрать запрос</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="51"
+       x="641"
+       y="1047.5637"
+       id="text1940">клиента</text>
+    <path
+       d="m 410,1011.6077 v 63 h 187 v -53 l -10,-10 H 410"
+       fill="#feffdd"
+       style="stroke:#181818;stroke-width:0.5"
+       id="path1942" />
+    <path
+       d="m 587,1011.6077 v 10 h 10 l -10,-10"
+       fill="#feffdd"
+       style="stroke:#181818;stroke-width:0.5"
+       id="path1944" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="131"
+       x="416"
+       y="1030.5048"
+       id="text1946">двоичные данные →</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="47"
+       x="416"
+       y="1048.2107"
+       id="text1948">JSON →</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="166"
+       x="416"
+       y="1065.9167"
+       id="text1950">объектное представление</text>
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="612"
+       x2="654"
+       y1="1121.1378"
+       y2="1121.1378"
+       id="line1952" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="654"
+       x2="654"
+       y1="1121.1378"
+       y2="1134.1378"
+       id="line1954" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="613"
+       x2="654"
+       y1="1134.1378"
+       y2="1134.1378"
+       id="line1956" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="613"
+       x2="623"
+       y1="1134.1378"
+       y2="1130.1378"
+       id="line1958" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="613"
+       x2="623"
+       y1="1134.1378"
+       y2="1138.1378"
+       id="line1960" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="25"
+       x="619"
+       y="1106.4758"
+       id="text1962">1.10</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="93"
+       x="648"
+       y="1097.6228"
+       id="text1964">сформировать</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="76"
+       x="648"
+       y="1115.3289"
+       id="text1966">JDBC-запрос</text>
+    <path
+       d="m 359,1156.1378 h 244 v 9.706 l -10,10 H 359 v -19.706"
+       fill="#eeeeee"
+       style="stroke:#000000;stroke-width:1.5"
+       id="path1968" />
+    <rect
+       fill="none"
+       height="128.53011"
+       style="stroke:#000000;stroke-width:1.5"
+       width="420"
+       x="359"
+       y="1156.1378"
+       id="rect1970" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="199"
+       x="374"
+       y="1171.0348"
+       id="text1972">Запрос уходит в Базу данных</text>
+    <polygon
+       fill="#008000"
+       points="787,1220.2558 777,1224.2558 781,1220.2558 777,1216.2558 "
+       style="stroke:#008000;stroke-width:1"
+       id="polygon1974" />
+    <line
+       style="stroke:#008000;stroke-width:1"
+       x1="612"
+       x2="783"
+       y1="1220.2559"
+       y2="1220.2559"
+       id="line1976" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="25"
+       x="619"
+       y="1214.4468"
+       id="text1978">1.11</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="76"
+       x="648"
+       y="1214.4468"
+       id="text1980">JDBC-запрос</text>
+    <path
+       d="m 369,1180.8438 v 63 h 228 v -53 l -10,-10 H 369"
+       fill="#feffdd"
+       style="stroke:#181818;stroke-width:0.5"
+       id="path1982" />
+    <path
+       d="m 587,1180.8438 v 10 h 10 l -10,-10"
+       fill="#feffdd"
+       style="stroke:#181818;stroke-width:0.5"
+       id="path1984" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="101"
+       x="375"
+       y="1199.7408"
+       id="text1986">в общем случае</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="177"
+       x="375"
+       y="1217.4468"
+       id="text1988">эта блокирующая операция</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="207"
+       x="375"
+       y="1235.153"
+       id="text1990">тоже бьётся на несколько шагов</text>
+    <polygon
+       fill="#feffdd"
+       points="759,1253.9619 769,1265.9619 759,1278.9619 455,1278.9619 445,1265.9619 455,1253.9619 "
+       style="stroke:#181818;stroke-width:0.5"
+       id="polygon1992" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="300"
+       x="457"
+       y="1271.8589"
+       id="text1994">Считаем, что уже имеется пул соединений с БД.</text>
+    <rect
+       fill="#eeeeee"
+       height="3"
+       style="stroke:#eeeeee;stroke-width:1"
+       width="789"
+       x="0"
+       y="1313.5209"
+       id="rect1996" />
+    <line
+       style="stroke:#000000;stroke-width:1"
+       x1="0"
+       x2="789"
+       y1="1313.5209"
+       y2="1313.5209"
+       id="line1998" />
+    <line
+       style="stroke:#000000;stroke-width:1"
+       x1="0"
+       x2="789"
+       y1="1316.5209"
+       y2="1316.5209"
+       id="line2000" />
+    <rect
+       fill="#eeeeee"
+       height="25.705999"
+       style="stroke:#000000;stroke-width:2"
+       width="200"
+       x="294.5"
+       y="1301.6678"
+       id="rect2002" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="183"
+       x="300.5"
+       y="1319.5649"
+       id="text2004">Ждём ответа Базы данных</text>
+    <path
+       d="m 10,1344.3739 h 324 v 9.706 l -10,10 H 10 v -19.706"
+       fill="#eeeeee"
+       style="stroke:#000000;stroke-width:1.5"
+       id="path2006" />
+    <rect
+       fill="none"
+       height="136.2361"
+       style="stroke:#000000;stroke-width:1.5"
+       width="413.5"
+       x="10"
+       y="1344.3739"
+       id="rect2008" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="279"
+       x="25"
+       y="1359.2709"
+       id="text2010">Блокируется рабочий поток выполнения</text>
+    <line
+       style="stroke:#ffa500;stroke-width:1"
+       x1="209.5"
+       x2="219.5"
+       y1="1423.198"
+       y2="1419.198"
+       id="line2012" />
+    <line
+       style="stroke:#ffa500;stroke-width:1"
+       x1="209.5"
+       x2="219.5"
+       y1="1423.198"
+       y2="1427.198"
+       id="line2014" />
+    <line
+       style="stroke:#ffa500;stroke-width:1"
+       x1="209.5"
+       x2="360.5"
+       y1="1423.198"
+       y2="1423.198"
+       id="line2016" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="226.5"
+       y="1399.6829"
+       id="text2018">2.1</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="96"
+       x="248.5"
+       y="1381.9769"
+       id="text2020">перевести тред</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="74"
+       x="248.5"
+       y="1399.6829"
+       id="text2022">в состояние</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="104"
+       x="248.5"
+       y="1417.389"
+       id="text2024">«заблокирован»</text>
+    <polygon
+       fill="#ffa500"
+       points="61.5,1472.61 71.5,1476.61 67.5,1472.61 71.5,1468.61 "
+       style="stroke:#ffa500;stroke-width:1"
+       id="polygon2026" />
+    <line
+       style="stroke:#ffa500;stroke-width:1"
+       x1="65.5"
+       x2="208.5"
+       y1="1472.61"
+       y2="1472.61"
+       id="line2028" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="77.5"
+       y="1457.948"
+       id="text2030">2.2</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="98"
+       x="99.5"
+       y="1449.095"
+       id="text2032">выгрузить тред</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="89"
+       x="99.5"
+       y="1466.801"
+       id="text2034">из ядра проца</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11px"
+       lengthAdjust="spacing"
+       textLength="133"
+       x="267.25"
+       y="1513.3523"
+       id="text2036">и какое-то время спустя:</text>
+    <rect
+       fill="#eeeeee"
+       height="3"
+       style="stroke:#eeeeee;stroke-width:1"
+       width="789"
+       x="0"
+       y="1552.4238"
+       id="rect2038" />
+    <line
+       style="stroke:#000000;stroke-width:1"
+       x1="0"
+       x2="789"
+       y1="1552.4238"
+       y2="1552.4238"
+       id="line2040" />
+    <line
+       style="stroke:#000000;stroke-width:1"
+       x1="0"
+       x2="789"
+       y1="1555.4238"
+       y2="1555.4238"
+       id="line2042" />
+    <rect
+       fill="#eeeeee"
+       height="25.705999"
+       style="stroke:#000000;stroke-width:2"
+       width="296"
+       x="246.5"
+       y="1540.5708"
+       id="rect2044" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="279"
+       x="252.5"
+       y="1558.4678"
+       id="text2046">Формируем и отправляем ответ Клиенту</text>
+    <path
+       d="m 140,1583.2768 h 267 v 9.706 l -10,10 H 140 v -19.706"
+       fill="#eeeeee"
+       style="stroke:#000000;stroke-width:1.5"
+       id="path2048" />
+    <rect
+       fill="none"
+       height="118.5301"
+       style="stroke:#000000;stroke-width:1.5"
+       width="283.5"
+       x="140"
+       y="1583.2769"
+       id="rect2050" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="222"
+       x="155"
+       y="1598.1738"
+       id="text2052">Приходит ответ из Базы данных</text>
+    <polygon
+       fill="#008000"
+       points="210.5,1626.6888 220.5,1630.6888 216.5,1626.6888 220.5,1622.6888 "
+       style="stroke:#008000;stroke-width:1"
+       id="polygon2054" />
+    <line
+       style="stroke:#008000;stroke-width:1;stroke-dasharray:2, 2"
+       x1="214.5"
+       x2="788"
+       y1="1626.6888"
+       y2="1626.6888"
+       id="line2056" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="226.5"
+       y="1620.8798"
+       id="text2058">3.1</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="67"
+       x="248.5"
+       y="1620.8798"
+       id="text2060">JDBC-ответ</text>
+    <polygon
+       fill="#a52a2a"
+       points="359.5,1693.8069 349.5,1697.8069 353.5,1693.8069 349.5,1689.8069 "
+       style="stroke:#a52a2a;stroke-width:1"
+       id="polygon2062" />
+    <line
+       style="stroke:#a52a2a;stroke-width:1"
+       x1="209.5"
+       x2="355.5"
+       y1="1693.8069"
+       y2="1693.8069"
+       id="line2064" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="216.5"
+       y="1670.2919"
+       id="text2066">3.2</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="69"
+       x="238.5"
+       y="1652.5858"
+       id="text2068">уведомить</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="81"
+       x="238.5"
+       y="1670.2919"
+       id="text2070">о получении</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="41"
+       x="238.5"
+       y="1687.9979"
+       id="text2072">ответа</text>
+    <path
+       d="m 10,1715.8069 h 333 v 9.706 l -10,10 H 10 v -19.706"
+       fill="#eeeeee"
+       style="stroke:#000000;stroke-width:1.5"
+       id="path2074" />
+    <rect
+       fill="none"
+       height="232.6089"
+       style="stroke:#000000;stroke-width:1.5"
+       width="732"
+       x="10"
+       y="1715.8069"
+       id="rect2076" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="288"
+       x="25"
+       y="1730.7039"
+       id="text2078">Активируется рабочий поток выполнения</text>
+    <line
+       style="stroke:#ffa500;stroke-width:1"
+       x1="209.5"
+       x2="219.5"
+       y1="1812.337"
+       y2="1808.337"
+       id="line2080" />
+    <line
+       style="stroke:#ffa500;stroke-width:1"
+       x1="209.5"
+       x2="219.5"
+       y1="1812.337"
+       y2="1816.337"
+       id="line2082" />
+    <line
+       style="stroke:#ffa500;stroke-width:1"
+       x1="209.5"
+       x2="360.5"
+       y1="1812.337"
+       y2="1812.337"
+       id="line2084" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="226.5"
+       y="1779.9689"
+       id="text2086">3.3</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="96"
+       x="248.5"
+       y="1753.4099"
+       id="text2088">перевести тред</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="74"
+       x="248.5"
+       y="1771.1158"
+       id="text2090">в состояние</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="71"
+       x="248.5"
+       y="1788.8219"
+       id="text2092">«ожидание</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="86"
+       x="248.5"
+       y="1806.528"
+       id="text2094">выполнения»</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11px"
+       lengthAdjust="spacing"
+       textLength="197"
+       x="235.25"
+       y="1846.0793"
+       id="text2096">ждём, пока освободится ядро проца</text>
+    <polygon
+       fill="#ffa500"
+       points="61.5,1904.7098 71.5,1908.7098 67.5,1904.7098 71.5,1900.7098 "
+       style="stroke:#ffa500;stroke-width:1"
+       id="polygon2098" />
+    <line
+       style="stroke:#ffa500;stroke-width:1"
+       x1="65.5"
+       x2="208.5"
+       y1="1904.7098"
+       y2="1904.7098"
+       id="line2100" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="77.5"
+       y="1890.0479"
+       id="text2102">3.4</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="103"
+       x="99.5"
+       y="1881.1948"
+       id="text2104">выполнить тред</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="82"
+       x="99.5"
+       y="1898.9008"
+       id="text2106">в ядре проца</text>
+    <rect
+       fill="#feffdd"
+       height="25"
+       style="stroke:#181818;stroke-width:0.5"
+       width="250"
+       x="482"
+       y="1917.7098"
+       id="rect2108" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="242"
+       x="486"
+       y="1935.6068"
+       id="text2110">Активный рабочий поток выполнения</text>
+    <path
+       d="m 359,1962.4158 h 294 v 9.706 l -10,10 H 359 v -19.706"
+       fill="#eeeeee"
+       style="stroke:#000000;stroke-width:1.5"
+       id="path2112" />
+    <rect
+       fill="none"
+       height="270.7662"
+       style="stroke:#000000;stroke-width:1.5"
+       width="399"
+       x="359"
+       y="1962.4158"
+       id="rect2114" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="249"
+       x="374"
+       y="1977.3127"
+       id="text2116">Обрабатывается ответ Базы данных</text>
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="612"
+       x2="654"
+       y1="2058.9458"
+       y2="2058.9458"
+       id="line2118" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="654"
+       x2="654"
+       y1="2058.9458"
+       y2="2071.9458"
+       id="line2120" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="613"
+       x2="654"
+       y1="2071.9458"
+       y2="2071.9458"
+       id="line2122" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="613"
+       x2="623"
+       y1="2071.9458"
+       y2="2067.9458"
+       id="line2124" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="613"
+       x2="623"
+       y1="2071.9458"
+       y2="2075.9458"
+       id="line2126" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="619"
+       y="2026.5778"
+       id="text2128">3.5</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="60"
+       x="641"
+       y="2000.0188"
+       id="text2130">вычитать</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="85"
+       x="641"
+       y="2017.7249"
+       id="text2132">поступившие</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="34"
+       x="641"
+       y="2035.4308"
+       id="text2134">из БД</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="115"
+       x="641"
+       y="2053.137"
+       id="text2136">двоичные данные</text>
+    <path
+       d="m 369,1999.4748 v 63 h 228 v -53 l -10,-10 H 369"
+       fill="#feffdd"
+       style="stroke:#181818;stroke-width:0.5"
+       id="path2138" />
+    <path
+       d="m 587,1999.4748 v 10 h 10 l -10,-10"
+       fill="#feffdd"
+       style="stroke:#181818;stroke-width:0.5"
+       id="path2140" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="101"
+       x="375"
+       y="2018.3718"
+       id="text2142">в общем случае</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="177"
+       x="375"
+       y="2036.0778"
+       id="text2144">эта блокирующая операция</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="207"
+       x="375"
+       y="2053.7839"
+       id="text2146">тоже бьётся на несколько шагов</text>
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="612"
+       x2="654"
+       y1="2126.7109"
+       y2="2126.7109"
+       id="line2148" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="654"
+       x2="654"
+       y1="2126.7109"
+       y2="2139.7109"
+       id="line2150" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="613"
+       x2="654"
+       y1="2139.7109"
+       y2="2139.7109"
+       id="line2152" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="613"
+       x2="623"
+       y1="2139.7109"
+       y2="2135.7109"
+       id="line2154" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="613"
+       x2="623"
+       y1="2139.7109"
+       y2="2143.7109"
+       id="line2156" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="619"
+       y="2112.0488"
+       id="text2158">3.6</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="66"
+       x="641"
+       y="2103.1958"
+       id="text2160">разобрать</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="54"
+       x="641"
+       y="2120.9019"
+       id="text2162">ответ БД</text>
+    <path
+       d="m 410,2084.9459 v 63 h 187 v -53 l -10,-10 H 410"
+       fill="#feffdd"
+       style="stroke:#181818;stroke-width:0.5"
+       id="path2164" />
+    <path
+       d="m 587,2084.9459 v 10 h 10 l -10,-10"
+       fill="#feffdd"
+       style="stroke:#181818;stroke-width:0.5"
+       id="path2166" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="131"
+       x="416"
+       y="2103.843"
+       id="text2168">двоичные данные →</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="109"
+       x="416"
+       y="2121.5488"
+       id="text2170">протокол JDBC →</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="166"
+       x="416"
+       y="2139.2549"
+       id="text2172">объектное представление</text>
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="612"
+       x2="654"
+       y1="2212.1819"
+       y2="2212.1819"
+       id="line2174" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="654"
+       x2="654"
+       y1="2212.1819"
+       y2="2225.1819"
+       id="line2176" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="613"
+       x2="654"
+       y1="2225.1819"
+       y2="2225.1819"
+       id="line2178" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="613"
+       x2="623"
+       y1="2225.1819"
+       y2="2221.1819"
+       id="line2180" />
+    <line
+       style="stroke:#181818;stroke-width:1"
+       x1="613"
+       x2="623"
+       y1="2225.1819"
+       y2="2229.1819"
+       id="line2182" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="619"
+       y="2188.667"
+       id="text2184">3.7</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="94"
+       x="641"
+       y="2170.9609"
+       id="text2186">сериализовать</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="34"
+       x="641"
+       y="2188.667"
+       id="text2188">ответ</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="51"
+       x="641"
+       y="2206.373"
+       id="text2190">клиенту</text>
+    <path
+       d="m 394,2161.5639 v 63 h 203 v -53 l -10,-10 H 394"
+       fill="#feffdd"
+       style="stroke:#181818;stroke-width:0.5"
+       id="path2192" />
+    <path
+       d="m 587,2161.5639 v 10 h 10 l -10,-10"
+       fill="#feffdd"
+       style="stroke:#181818;stroke-width:0.5"
+       id="path2194" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="182"
+       x="400"
+       y="2180.4609"
+       id="text2196">объектное представление →</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="47"
+       x="400"
+       y="2198.167"
+       id="text2198">JSON →</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="115"
+       x="400"
+       y="2215.873"
+       id="text2200">двоичные данные</text>
+    <path
+       d="m 3,2247.182 h 198 v 9.706 l -10,10 H 3 v -19.706"
+       fill="#eeeeee"
+       style="stroke:#000000;stroke-width:1.5"
+       id="path2202" />
+    <rect
+       fill="none"
+       height="81.294403"
+       style="stroke:#000000;stroke-width:1.5"
+       width="650.5"
+       x="3"
+       y="2247.1819"
+       id="rect2204" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="150"
+       x="18"
+       y="2262.0791"
+       id="text2206">Ответ уходит клиенту</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="96"
+       x="216"
+       y="2260.9243"
+       id="text2208">[в общем случае</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="166"
+       x="216"
+       y="2275.885"
+       id="text2210">эта блокирующая операция</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="196"
+       x="216"
+       y="2290.8459"
+       id="text2212">тоже бьётся на несколько шагов]</text>
+    <polygon
+       fill="#ff0000"
+       points="1,2320.4763 11,2324.4763 7,2320.4763 11,2316.4763 "
+       style="stroke:#ff0000;stroke-width:1"
+       id="polygon2214" />
+    <line
+       style="stroke:#ff0000;stroke-width:1;stroke-dasharray:2, 2"
+       x1="5"
+       x2="606"
+       y1="2320.4763"
+       y2="2320.4763"
+       id="line2216" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="18"
+       x="17"
+       y="2314.6672"
+       id="text2218">3.8</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="108"
+       x="39"
+       y="2314.6672"
+       id="text2220">отослать данные</text>
+    <!--MD5=[8a5bcf727fc6bd571e1652b9529af730]
+@startuml
+title Сценарий блокирующей обработки
+skinparam backgroundcolor AntiqueWhite/White
+
+  control "Процессор" as proc #orange
+  participant "Операционная\nсистема" as os #orchid
+  participant "Виртуальная\nмашина" as vm #lightblue
+  box Приложение #ivory
+    participant "Диспетчер" as dispatcher #lightgreen
+    participant "Рабочий" as worker #lightgreen
+  end box
+
+== Обрабатываем запрос Клиента ==
+autonumber 1.1
+group Клиент соединяется с сервером
+  -[#red]> os : TCP-соединение
+  os -[#red]> vm : уведомить\nо попытке\nсоединения
+  vm -[#red]>> os: перевести\n<i>диспетчерский</i>\nтред в состояние\n«ожидание\nвыполнения»
+  ...ждём, пока освободится ядро проца...
+  os -[#red]> proc: выполнить\n<i>диспетчерский</i>\nтред\nв ядре проца
+  activate dispatcher #cyan
+  rnote over dispatcher: Активный диспетчерский поток выполнения
+end
+group Активируется рабочий поток выполнения
+  dispatcher -[#blue]>> vm : взять\nсвободный тред\nиз пула
+  vm -[#blue]>> os: перевести тред\nв состояние\n«ожидание\nвыполнения»
+  ...ждём, пока освободится ядро проца...
+  os -[#blue]> proc: выполнить тред\nв ядре проца
+  activate worker #lightgreen
+  rnote over worker: Активный рабочий поток выполнения
+  deactivate dispatcher
+end
+group Обрабатываются данные клиента
+  worker ->> worker : вычитать\nпоступившие\nдвоичные данные
+  note left: в общем случае\nэта блокирующая операция\nтоже бьётся на несколько шагов
+  worker ->> worker : разобрать запрос\nклиента
+  note left: двоичные данные →\nJSON →\nобъектное представление
+  worker ->> worker : сформировать\nJDBC-запрос
+end
+group Запрос уходит в Базу данных
+  worker -[#green]>] : JDBC-запрос
+  note left: в общем случае\nэта блокирующая операция\nтоже бьётся на несколько шагов
+  hnote over worker: Считаем, что уже имеется пул соединений с БД.
+end
+== Ждём ответа Базы данных ==
+autonumber 2.1
+group Блокируется рабочий поток выполнения
+  vm -[#orange]>> os: перевести тред\nв состояние\n«заблокирован»
+  os -[#orange]> proc: выгрузить тред\nиз ядра проца
+  deactivate worker
+end
+...и какое-то время спустя:...
+== Формируем и отправляем ответ Клиенту ==
+autonumber 3.1
+group Приходит ответ из Базы данных
+  os <[#green]- - : JDBC-ответ
+  os -[#brown]> vm : уведомить\nо получении\nответа
+end
+group Активируется рабочий поток выполнения
+  vm -[#orange]>> os: перевести тред\nв состояние\n«ожидание\nвыполнения»
+  ...ждём, пока освободится ядро проца...
+  os -[#orange]> proc: выполнить тред\nв ядре проца
+  activate worker #lightgreen
+  rnote over worker: Активный рабочий поток выполнения
+end
+group Обрабатывается ответ Базы данных
+  worker ->> worker : вычитать\nпоступившие\nиз БД\nдвоичные данные
+  note left: в общем случае\nэта блокирующая операция\nтоже бьётся на несколько шагов
+  worker ->> worker : разобрать\nответ БД
+  note left: двоичные данные →\nпротокол JDBC →\nобъектное представление
+  worker ->> worker: сериализовать\nответ\nклиенту
+  note left: объектное представление →\nJSON →\nдвоичные данные
+end
+group Ответ уходит клиенту [в общем случае\nэта блокирующая операция\nтоже бьётся на несколько шагов]
+  [<-[#red]- worker: отослать данные
+  deactivate worker
+end
+@enduml
+
+PlantUML version 1.2022.4(Sat Apr 09 20:29:17 NOVT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: ru
+Country: RU
+-->
+  </g>
+</svg>
